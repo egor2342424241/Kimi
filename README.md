@@ -11,6 +11,8 @@
 - базовая обработка ошибок и проверка доступности GPU.
 
 ## Быстрый запуск
+
+[![Открыть в Google Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/egor2342424241/Kimi/blob/main/notebooks/Kimi_Colab.ipynb)
 1. Откройте файл `notebooks/Kimi_Colab.ipynb` в GitHub.
 2. Нажмите **Open in Colab** (значок/ссылка вверху ноутбука) или загрузите ноутбук в Google Colab вручную.
 3. В Colab выберите **Runtime → Change runtime type → T4 GPU**, если доступно.
